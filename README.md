@@ -6,7 +6,7 @@ Project's instructions:
 
 github link: 
 
-    https://github.com/etzotzis/Rock_Paper_Scissors-Game
+    https://github.com/etzotzis/Rock_Paper_Scissors_Game
 
 Files:
 
