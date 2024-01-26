@@ -18,9 +18,12 @@ Files:
     
     Rock_Paper_Scissors_RF.ipynb
 
+
 Results:
 
     Both files are self working and implement the Project's requirements using either CNN (Rock_Paper_Scissors_CNN.ipynb) or Random Forests (Rock_Paper_Scissors_RF.ipynb).
+
+    "data_dir" should be the path to the folder containing the 3 subfolders (paper, rock and scissors)
     
     The user can change the following in both code files:
         x_pixels = 60 # Number of X pixels - Ratio ideally, should be 3/2 (with Y pixels)
@@ -33,6 +36,7 @@ Results:
     Both ways can achieve a very good accuracy predicting the image's class (Rock Paper or Scissors) in the first place. 
     However, RF cannot cope with the opponent agent's flips and noise addition and its accuracy falls near random choice. On the other hand, CNN keeps a very good accuracy even after the image "corruption".
 
+    This is expected since CNN is very robust in computer vision. RF was just tested for redundancy and test reasons.
     
 Author:
 
