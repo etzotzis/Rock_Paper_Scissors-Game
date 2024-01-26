@@ -4,6 +4,10 @@ Project's instructions:
 
     https://drive.google.com/file/d/19sBaIygmYRiXQgSNqLsjTgdDHiFnAEZP/view
 
+Dataset:
+
+    https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors
+
 github link: 
 
     https://github.com/etzotzis/Rock_Paper_Scissors_Game
